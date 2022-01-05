@@ -12,7 +12,7 @@ left: 40%;
 
 }
 form{
-	margin-top: 10%;
+	margin-top: 15%;
 }
 
 .C:hover{
@@ -20,4 +20,16 @@ color: greenyellow;
 }
 #connect{
 	cursor: pointer;
+}
+.C{
+	position: relative;
+	right: 22%;
+}
+#P{ position: relative;
+	right: 4%;
+
+}
+button{
+position: relative;
+left: 2%;
 }
